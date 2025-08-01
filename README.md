@@ -5,8 +5,6 @@
 
 ```sh
 docker compose up
-
-
 ```
 
 Visit [http://localhost:9001/](http://localhost:9001/)
